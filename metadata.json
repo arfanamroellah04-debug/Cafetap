@@ -1,0 +1,6 @@
+{
+  "name": "Cafetap",
+  "description": "Menu digital dan pemesanan mandiri nirsentuh berbasis NFC untuk kafe kelas atas dengan checkout WhatsApp langsung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
